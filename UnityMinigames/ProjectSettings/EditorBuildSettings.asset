@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/AppleCatcher.unity
+    guid: 65c27f57c00949c45999cff9be9568c8
+  - enabled: 1
+    path: Assets/Scenes/BrickBreaker.unity
+    guid: 0b10a42e47e03374e9a682a8c1f6d324
+  - enabled: 1
+    path: Assets/Scenes/FurapiBird.unity
+    guid: c365306bf7547ea40b833f54bb29f3ee
+  m_configObjects: {}
